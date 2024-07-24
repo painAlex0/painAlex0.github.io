@@ -12,7 +12,7 @@ body {
 
 .section-red {
     background-color: #ff4500; /* червоний колір фону першої секції */
-    color: #fff; /* білий колір тексту в першій секції */
+    color: #fff; /* білий колір тексту в першій секції gggjd ggkkf ggkkf dig do go log dB cm */
     padding: 20px;
     border-radius: 10px;
 }
@@ -34,6 +34,6 @@ button {
 }
 
 button:hover {
-    background-color: #ff4500; /* змінює колір фону при наведенні */
-    color: #fff; /* змінює колір тексту при наведенні */
+    background-color: #ff4500; 
+    color: #fff; 
 }
